@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(0, 110, 179, 0.775);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    /* height: 300px; */
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.337);
+}
+
+div{
+    text-align: center;
+    padding: 10px;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    width: 300px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.221);
+    border-radius: 100%;
+}
